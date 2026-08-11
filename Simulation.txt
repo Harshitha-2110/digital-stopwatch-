@@ -1,0 +1,1 @@
+iverilog -o stopwatch_sim digital_stopwatch.v digital_stopwatch_tb.v
